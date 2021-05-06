@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaloCode 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning iOS development 
-- 📫 How to reach me
+
 
 <!---
 BaloCode/BaloCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
