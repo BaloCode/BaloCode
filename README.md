@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BaloCode 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning mobile app development using flutter and backend development using golang 
+- 🧪Quality Assurance Engineer,QA Automation Engineer,Test Coordinator
+- 💻 I’m currently learning mobile app development using swift
 
 
 <!---
